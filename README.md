@@ -23,22 +23,17 @@
 
 - 首先，你需要购买一个科学上网（**需要支持 http 端口代理**）；
 	- `macOS` 客户端：
-		- 如果使用的是 **ClashX** ，点击菜单，选择 `复制终端代理命令`，然后拷贝到终端即可。<details close>
-  <summary>如图所示</summary>
-<img width="80%" src="images/ClashX.png"/>
-</details>
-		- 如果使用的是 **ShadowsocksX-NG** ，点击菜单，选择 `复制终端代理命令`，然后拷贝到终端即可。<details close>
-  <summary>如图所示</summary>
-<img width="80%" src="images/shadowsocks.png"/>
-</details>
+		- 如果使用的是 **ClashX** ，点击菜单，选择 `复制终端代理命令`，然后拷贝到终端即可。<details close><summary>如图所示</summary><img width="40%" src="images/ClashX.png"/></details>
+		- 如果使用的是 **ShadowsocksX-NG**，点击菜单，选择 `复制终端代理命令`，然后拷贝到终端即可。<details close><summary>如图所示</summary><img width="40%" src="images/shadowsocks.png"/></details>
 
-	> 没错，这2个 APP 都有这个命令；如果没有，请更新最新版本。
+		> 没错，这2个 APP 都有这个命令；如果没有，请更新最新版本。
 	
 	- `Windows` 客户端：
 		- 暂时没 Windows 系统…
 
 通过以上步骤，已经能够解决无法下载、下载失败等问题，
 下载速度应该有个几兆/秒了(依赖你的科学上网提供方服务器和你的网速)：
+
 ![](images/success.jpg)
 
 但是复制的 `export http_proxy...` 命令，只能在当前终端窗口生效，新开一个窗口或者重启后就无效了，需要再次复制到终端。
