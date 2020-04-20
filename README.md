@@ -23,7 +23,7 @@
 
 - 首先，你需要购买一个科学上网（**需要支持 http 端口代理**）；
 	- `macOS` 客户端：
-		- 如果使用的是 **ClashX** ，点击菜单，选择 `复制终端代理命令`，然后拷贝到终端即可。<details close><summary>如图所示</summary><img width="40%" src="images/ClashX.png"/></details>
+		- 如果使用的是 **ClashX** ，点击菜单，选择 `复制终端代理命令`，然后拷贝到终端即可。<details close><summary>如图所示</summary><img width="40%" src="images/clashX.png"/></details>
 		- 如果使用的是 **ShadowsocksX-NG**，点击菜单，选择 `复制终端代理命令`，然后拷贝到终端即可。<details close><summary>如图所示</summary><img width="40%" src="images/shadowsocks.png"/></details>
 
 		> 没错，这2个 APP 都有这个命令；如果没有，请更新最新版本。
